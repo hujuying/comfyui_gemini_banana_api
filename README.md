@@ -1,4 +1,3 @@
-
 # ComfyUI Gemini 图像编辑插件
 
 [![GitHub](https://img.shields.io/github/license/yourusername/comfyui-gemini-image-edit)](https://github.com/yourusername/comfyui-gemini-image-edit/blob/main/LICENSE)
@@ -156,7 +155,7 @@ sk-your-third-key
 
 - 感谢 ComfyUI 社区提供的优秀框架
 - 受各种 AI 图像编辑工具启发
-
+- 本插件基于https://www.bilibili.com/video/BV1KeaRzhE8o/ 站长的插件魔改而成，特此鸣谢~
 ## 📞 支持
 
 如有问题、疑问或反馈，请在 GitHub 上[提交 issue](https://github.com/yourusername/comfyui-gemini-image-edit/issues)。
@@ -166,3 +165,4 @@ sk-your-third-key
 **安全提醒**：此插件会将 API 密钥保存到本地文件，请确保您的计算机环境安全，避免密钥泄露。
 
 ```
+
