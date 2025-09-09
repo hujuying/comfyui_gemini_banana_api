@@ -86,10 +86,10 @@ class GeminiImageEditV2Node:
                     "default": ""
                 }),
                 "base_url": ("STRING", {
-                    "default": "api.apicore.ai"
+                    "default": "apis.kuai.host"
                 }),
                 "model": ("STRING", {
-                    "default": "gemini-2.5-flash-image"
+                    "default": "gemini-2.5-flash-image-hd"
                 }),
                 "image1": ("IMAGE",),
             },
@@ -108,6 +108,7 @@ class GeminiImageEditV2Node:
                 })
             }
         }
+
     
     RETURN_TYPES = ("IMAGE",)
     RETURN_NAMES = ("edited_image",)
